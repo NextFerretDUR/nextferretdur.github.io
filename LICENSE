@@ -1,0 +1,79 @@
+NextFerret License v1.0 (NFLv1) — December 2025
+
+Copyright © NextFerret, 2025
+
+
+1. Definitions
+
+"Original Work" means the software, source code, and associated documentation initially released under this License.
+
+"Derivative Work" means any modification, adaptation, translation, or enhancement of the Original Work.
+
+"Distribution" means any act of sharing, selling, or providing access to the Work to third parties.
+
+"SaaS Provision" means providing the functionality of the Work to users over a network (Software as a Service).
+
+2. Grant of Rights
+
+Subject to the terms of this License, you are granted a worldwide, royalty-free, non-exclusive license to:
+
+
+Use and Study: Run the software for any purpose (personal, educational, or commercial).
+
+Modify: Create Derivative Works and adaptations.
+
+Distribute and Fork: Copy and share the Original Work or Derivative Works, provided that the conditions in Section 3 and 4 are met.
+
+3. Strong Copyleft Obligations
+
+The NFLv1 is a reciprocal license. To ensure the software remains free and open:
+
+
+3.1 License Consistency: Any Derivative Work that you distribute or provide via SaaS must be licensed under this same License (NFLv1) or any later version of the NextFerret License. You may not impose further restrictions on the rights granted herein.
+
+3.2 Source Code Availability: If you distribute the Work or a Derivative Work, you must make the complete, machine-readable source code available to the recipients, including any scripts or configuration files required to build and run the software.
+
+3.3 Network Use (SaaS): Providing access to the software’s functionality via a network (SaaS) is considered Distribution under this License. You must make the source code of your version available to all users interacting with it.
+
+4. Attribution
+
+Every Distribution of the Work, including Derivative Works, must include:
+
+
+A copy of this License.
+
+A clear statement: "Licensed under NFLv1 by [Original Author Name]."
+
+Credits to the original author in documentation, "About" sections, or source code headers.
+
+5. Commercial Use and Monetization
+
+5.1 Author Rights: The original author reserves the right to offer "Freemium" versions or separate commercial licenses for the Original Work.
+
+5.2 Third-Party Commercialization: You are permitted to commercialize "Declared Forks" (e.g., selling access, support, or features), provided that the fork remains open-source under NFLv1 and maintains full attribution to the original creator.
+
+6. Contributions
+
+By contributing to the Original Work, you agree to license your contribution under NFLv1. The original author may use these contributions in any version of the software (commercial or non-commercial) while maintaining credit to the contributor.
+
+
+7. Patent Grant
+
+This License includes a royalty-free, non-exclusive patent grant from all contributors to the user. If you institute patent litigation against any contributor alleging that the Work constitutes patent infringement, your rights under this License shall terminate automatically.
+
+
+8. No Warranty & Limitation of Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+
+9. Termination
+
+Any failure to comply with the terms of this License (such as failing to provide source code or removing attribution) will result in the automatic and immediate termination of your rights under this License.
+
+
+10. Severability
+
+If any provision of this License is held to be unenforceable or invalid, the remaining provisions shall remain in full force and effect.
+
+End of License
