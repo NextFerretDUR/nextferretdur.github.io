@@ -1,2 +1,3 @@
 [NextFerret's Debian User Repository Metadata File]
 "Yanix Launcher" Repo=1 Mantainer="NextFerret" File=yanixlauncher.deb Version=2.0.0
+"nfdurh" Repo=1 Maintainer="NextFerret" File=nfdurh.deb Version=1.0
