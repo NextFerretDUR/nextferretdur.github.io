@@ -4,3 +4,5 @@
 "ryzen-smu-dkms" Repo=1 Maintainer=NextFerret File=ryzen-smu-dkms_0.1.7_amd64.deb Version=0.1.7
 "ryzenadj" Repo=1 Maintainer=NextFerret File=ryzenadj_0.17.0_amd64.deb Version=0.17.0
 "xpadneo" Repo=1 Maintainer=NextFerret File=xpadneo-dkms-0.9.8_amd64.deb Version=0.9.8
+"tocafetch" Repo=1 Maintainer=MigRDEV File=tocafetch_3.1-1_amd64.deb Version=3.1
+"tocafetch-noarch" Repo=1 Maintainer=NextFerret File=tocafetch_3.1_all.deb Version=3.1
