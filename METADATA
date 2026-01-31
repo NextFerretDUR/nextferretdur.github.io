@@ -1,5 +1,4 @@
 [NextFerret's Debian User Repository Metadata File]
-"yanix-launcher" Repo=1 Maintainer="NextFerret" File=yanixlauncher.deb Version=2.0.0
 "nfdurh" Repo=1 Maintainer="NextFerret" File=nfdurh.deb Version=1.0
 "ryzenadj" Repo=1 Maintainer=NextFerret File=ryzenadj_0.17.0_amd64.deb Version=0.17.0
 "xpadneo" Repo=1 Maintainer=NextFerret File=xpadneo-dkms-0.9.8_amd64.deb Version=0.9.8
