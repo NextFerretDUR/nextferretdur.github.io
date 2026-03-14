@@ -4,3 +4,6 @@
 "xpadneo" Repo=1 Maintainer=NextFerret File=xpadneo-dkms-0.9.8_amd64.deb Version=0.9.8
 "tocafetch" Repo=1 Maintainer=MigRDEV File=tocafetch_3.1-1_amd64.deb Version=3.1
 "tocafetch-noarch" Repo=1 Maintainer=NextFerret File=tocafetch_3.1_all.deb Version=3.1
+"apt-nf-tree" Repo=1 Maintainer=NextFerret File=apt-nf-tree_1.3r2_amd64.deb Version=1.3r2
+"nf-subsystem" Repo=1 Maintainer=NextFerret File=nf-subsystem_2.0_amd64.deb Version=2
+"nf-tree" Repo=1 Maintainer=NextFerret FIle=nf-tree_1.3r2_amd64.deb Version=1.3r2
